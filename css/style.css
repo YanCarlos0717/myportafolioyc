@@ -555,7 +555,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 2px solid ;
   border: 2px solid ;
   border-color: #03c5ec;
-  border-radius: 15px; 
+  border-radius: 15px;
+  flex-wrap: wrap; 
 }
 .img1{
   width: 80px;
@@ -563,7 +564,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-top: 25%;
   margin-left: 23%;
   /* object-fit: cover; */
-  grid-area: img;
+  grid-area: img;  
 }
 .img2{
   width: 100px;
@@ -571,7 +572,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-top: 25%;
   margin-left: 18%;
   /* object-fit: cover; */
-  grid-area: img;
+  grid-area: img;  
 }
 
 .figure1::after{
