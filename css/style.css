@@ -575,7 +575,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .figure1::after{
-  content: "PYTHON  Nivel: Basico";
+  content: "PYTHON      Nivel: Basico";
   grid-area: img;
   width: 100%;
   height: 100%;
@@ -596,7 +596,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .figure2::after{
-  content: "JAVA  Nivel: Intermedio";
+  content: "JAVA       Nivel: Intermedio";
   grid-area: img;
   width: 100%;
   height: 100%;
@@ -617,7 +617,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .figure3::after{
-  content: "JavaScript  Nivel: Basico";
+  content: "JavaScript     Nivel: Basico";
   grid-area: img;
   width: 100%;
   height: 100%;
@@ -638,7 +638,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .figure4::after{
-  content: "MYSQL  Nivel: Intermedio";
+  content: "MYSQL     Nivel: Intermedio";
   grid-area: img;
   width: 100%;
   height: 100%;
@@ -659,7 +659,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .figure5::after{
-  content: "SQLServer  Nivel: Basico";
+  content: "SQLServer     Nivel: Basico";
   grid-area: img;
   width: 100%;
   height: 100%;
@@ -680,7 +680,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .figure6::after{
-  content: "Git  Nivel: Intermedio";
+  content: "Git     Nivel: Intermedio";
   grid-area: img;
   width: 100%;
   height: 100%;
@@ -701,7 +701,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .figure7::after{
-  content: "HTML  Nivel: Intermedio";
+  content: "HTML       Nivel: Intermedio";
   grid-area: img;
   width: 100%;
   height: 100%;
@@ -722,7 +722,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .figure8::after{
-  content: "CSS  Nivel: Intermedio";
+  content: "CSS        Nivel: Intermedio";
   grid-area: img;
   width: 100%;
   height: 100%;
